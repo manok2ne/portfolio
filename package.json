@@ -1,0 +1,10 @@
+{
+  "name": "portfolio",
+  "private": true,
+  "scripts": {
+    "fetch-food": "node scripts/fetch-busan-food.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
